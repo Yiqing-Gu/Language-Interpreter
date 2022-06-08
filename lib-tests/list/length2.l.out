@@ -1,0 +1,9 @@
+Yes:
+X = zero.
+No.
+Yes:
+X = succ(succ(succ(zero))).
+Yes:
+X = succ(zero).
+Yes:
+X = succ(succ(succ(succ(succ(zero))))).

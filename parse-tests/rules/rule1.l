@@ -1,0 +1,20 @@
+p(a)? p(b)? p(c)? p(d)? p(e)? p(f)?
+
+p(c) :- p(a).
+p(c) :- p(b).
+p(e) :- p(c), p(d).
+p(f) :- p(e), p(a).
+
+p(a)? p(b)? p(c)? p(d)? p(e)? p(f)?
+
+p(b).
+
+p(a)? p(b)? p(c)? p(d)? p(e)? p(f)?
+
+p(d).
+
+p(a)? p(b)? p(c)? p(d)? p(e)? p(f)?
+
+p(a).
+
+p(a)? p(b)? p(c)? p(d)? p(e)? p(f)?

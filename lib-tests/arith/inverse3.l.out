@@ -1,0 +1,5 @@
+Yes:
+X = zero,
+Y = succ(succ(zero));
+X = succ(zero),
+Y = succ(succ(succ(zero))).

@@ -1,0 +1,69 @@
+ntos(zero, "zero")?
+ntos(succ(zero), "one")?
+ntos(succ(succ(zero)), "two")?
+ntos(succ(succ(succ(zero))), "three")?
+ntos(succ(succ(succ(succ(zero)))), "four")?
+ntos(succ(succ(succ(succ(succ(zero))))), "five")?
+ntos(succ(succ(succ(succ(succ(succ(zero)))))), "six")?
+ntos(succ(zero), "zero")?
+ntos(succ(succ(zero)), "one")?
+ntos(succ(succ(succ(zero))), "two")?
+ntos(succ(succ(succ(succ(zero)))), "three")?
+ntos(succ(succ(succ(succ(succ(zero))))), "four")?
+ntos(succ(succ(succ(succ(succ(succ(zero)))))), "five")?
+ntos(succ(succ(succ(succ(succ(succ(succ(zero))))))), "six")?
+
+ntos(0, "zero")?
+ntos(1, "one")?
+ntos(2, "two")?
+ntos(succ(2), "three")?
+ntos(4, "four")?
+ntos(5, "five")?
+ntos(6, "six")?
+ntos(1, "zero")?
+ntos(2, "one")?
+ntos(succ(2), "two")?
+ntos(4, "three")?
+ntos(5, "four")?
+ntos(6, "five")?
+ntos(7, "six")?
+
+
+ntos(zero, "zero").
+ntos(succ(zero), "one").
+ntos(succ(succ(zero)), "two").
+ntos(3, "three").
+ntos(succ(succ(succ(succ(zero)))), "four").
+ntos(5, "five").
+ntos(succ(5), "six").
+
+
+ntos(zero, "zero")?
+ntos(succ(zero), "one")?
+ntos(succ(succ(zero)), "two")?
+ntos(succ(succ(succ(zero))), "three")?
+ntos(succ(succ(succ(succ(zero)))), "four")?
+ntos(succ(succ(succ(succ(succ(zero))))), "five")?
+ntos(succ(succ(succ(succ(succ(succ(zero)))))), "six")?
+ntos(succ(zero), "zero")?
+ntos(succ(succ(zero)), "one")?
+ntos(succ(succ(succ(zero))), "two")?
+ntos(succ(succ(succ(succ(zero)))), "three")?
+ntos(succ(succ(succ(succ(succ(zero))))), "four")?
+ntos(succ(succ(succ(succ(succ(succ(zero)))))), "five")?
+ntos(succ(succ(succ(succ(succ(succ(succ(zero))))))), "six")?
+
+ntos(0, "zero")?
+ntos(1, "one")?
+ntos(2, "two")?
+ntos(succ(2), "three")?
+ntos(4, "four")?
+ntos(5, "five")?
+ntos(6, "six")?
+ntos(1, "zero")?
+ntos(2, "one")?
+ntos(succ(2), "two")?
+ntos(4, "three")?
+ntos(5, "four")?
+ntos(6, "five")?
+ntos(7, "six")?

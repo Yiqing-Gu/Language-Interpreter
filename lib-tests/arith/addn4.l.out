@@ -1,0 +1,10 @@
+Yes:
+X = zero,
+Y = zero;
+Y = zero,
+X = zero.
+Yes:
+X = succ(zero),
+Y = zero;
+Y = succ(zero),
+X = zero.

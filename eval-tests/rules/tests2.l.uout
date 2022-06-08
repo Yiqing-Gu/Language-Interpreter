@@ -1,0 +1,26 @@
+Yes:
+X = virginia;
+X = bob;
+X = suzy.
+Yes:
+X = lee.
+No.
+Yes:
+X = bob.
+Yes:
+X = succ(zero).
+Yes:
+X = virginia.
+Yes:
+X = garrett;
+X = robby.
+Yes:
+X = suzy.
+No.
+Yes:
+X = cons(virginia, cons(bob, cons(suzy, nil))).
+Yes:
+X = cons(bob, cons(suzy, nil)).
+Yes:
+Y = jamie,
+X = chris.

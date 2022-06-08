@@ -1,0 +1,25 @@
+No.
+Yes:
+S = "zero",
+N = zero;
+S = "nada",
+N = zero;
+S = "one",
+N = succ(zero);
+S = "uno",
+N = succ(zero);
+S = "two",
+N = succ(succ(zero));
+S = "three",
+N = succ(succ(succ(zero)));
+S = "four",
+N = succ(succ(succ(succ(zero))));
+S = "five",
+N = succ(succ(succ(succ(succ(zero)))));
+S = "six",
+N = succ(succ(succ(succ(succ(succ(zero)))))).
+Yes:
+S = "zero";
+S = "nada".
+Yes:
+N = succ(zero).

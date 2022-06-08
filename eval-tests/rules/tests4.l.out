@@ -1,0 +1,29 @@
+Yes:
+.
+Yes:
+.
+No.
+Yes:
+X = virginia;
+X = bob;
+X = suzy;
+X = garrett;
+X = robby;
+X = chris;
+X = jamie.
+Yes:
+X = chris;
+X = jamie.
+Yes:
+X = succ(zero).
+Yes:
+X = succ(succ(zero)).
+No.
+Yes:
+X = garrett;
+X = robby;
+X = chris;
+X = jamie.
+Yes:
+X = chris;
+X = jamie.

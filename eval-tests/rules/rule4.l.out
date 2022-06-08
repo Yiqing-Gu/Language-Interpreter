@@ -1,0 +1,50 @@
+Yes.
+No.
+Yes:
+X = b;
+X = c.
+Yes:
+X = c;
+X = d.
+Yes:
+X = c.
+No.
+Yes:
+;
+;
+.
+Yes:
+X = b;
+X = c;
+X = d;
+X = e;
+X = d;
+X = e;
+X = e.
+Yes:
+Y = b,
+X = a;
+Y = c,
+X = a;
+Y = d,
+X = b;
+Y = d,
+X = c;
+Y = e,
+X = c;
+Y = e,
+X = d;
+X = a,
+Y = d;
+X = a,
+Y = e;
+X = a,
+Y = d;
+X = a,
+Y = e;
+X = a,
+Y = e;
+X = b,
+Y = e;
+X = c,
+Y = e.

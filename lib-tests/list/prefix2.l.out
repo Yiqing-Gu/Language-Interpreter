@@ -1,0 +1,5 @@
+Yes:
+X = succ(succ(zero)).
+Yes:
+Z = succ(zero),
+X = succ(succ(succ(zero))).

@@ -1,0 +1,1220 @@
+{
+  "tests": [
+    {
+      "name": "Logic Parse Test: parse-tests/atom-terms/atom1.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/atom-terms/atom1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/atom-terms/atom2.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/atom-terms/atom2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/atom-terms/atom3.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/atom-terms/atom3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/compound-terms/compound1.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/compound-terms/compound1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/compound-terms/compound2.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/compound-terms/compound2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/lib-tests/arithq.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/lib-tests/arithq.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/lib-tests/listq2.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/lib-tests/listq2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/lib-tests/listq3.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/lib-tests/listq3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/lib-tests/listq.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/lib-tests/listq.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/lists/list1.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/lists/list1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/lists/list2.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/lists/list2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/naturals/nat1.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/naturals/nat1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/naturals/nat2.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/naturals/nat2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/rules/rule1.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/rules/rule1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/rules/rule2.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/rules/rule2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/rules/rule3.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/rules/rule3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/rules/rule4.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/rules/rule4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/rules/tests1.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/rules/tests1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/rules/tests2.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/rules/tests2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/rules/tests3.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/rules/tests3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/rules/tests4.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/rules/tests4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/simple-queries/simpleq1.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/simple-queries/simpleq1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/simple-queries/simpleq2.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/simple-queries/simpleq2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/simple-queries/simpleq3.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/simple-queries/simpleq3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/simple-queries/simpleq4.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/simple-queries/simpleq4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/simple-queries/simpleq5.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/simple-queries/simpleq5.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/simple-rules/simple1.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/simple-rules/simple1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/simple-rules/simple2.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/simple-rules/simple2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/simple-rules/simple3.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/simple-rules/simple3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/simple-rules/simple4.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/simple-rules/simple4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/simple-rules/simple5.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/simple-rules/simple5.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/vars/var1.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/vars/var1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/vars/var2.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/vars/var2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/vars/var3.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/vars/var3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/vars/var4.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/vars/var4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Parse Test: parse-tests/vars/var5.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/vars/var5.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Logic Parse Test: parse-tests/sugar/sugared.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/sugar/sugared.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Logic Parse Test: parse-tests/sugar/desugared.l",
+      "setup": "",
+      "run": "./test.sh parse-tests/sugar/desugared.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Logic Parse Test: sugared vs. desugared",
+      "setup": "",
+      "run": "./test.sh parse-tests/sugar/sugared.l parse-tests/sugar/desugared.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Logic Eval Test: eval-tests/atom-terms/atom1.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/atom-terms/atom1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/atom-terms/atom2.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/atom-terms/atom2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/atom-terms/atom3.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/atom-terms/atom3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/compound-terms/compound1.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/compound-terms/compound1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/compound-terms/compound2.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/compound-terms/compound2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/lists/list1.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/lists/list1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/lists/list2.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/lists/list2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/naturals/nat1.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/naturals/nat1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/naturals/nat2.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/naturals/nat2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/rules/rule1.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/rules/rule1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/rules/rule2.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/rules/rule2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/rules/rule3.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/rules/rule3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/rules/rule4.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/rules/rule4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/rules/tests1.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/rules/tests1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/rules/tests2.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/rules/tests2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/rules/tests3.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/rules/tests3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/rules/tests4.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/rules/tests4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/simple-queries/simpleq1.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/simple-queries/simpleq1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/simple-queries/simpleq2.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/simple-queries/simpleq2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/simple-queries/simpleq3.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/simple-queries/simpleq3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/simple-queries/simpleq4.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/simple-queries/simpleq4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/simple-queries/simpleq5.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/simple-queries/simpleq5.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/simple-rules/simple1.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/simple-rules/simple1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/simple-rules/simple2.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/simple-rules/simple2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/simple-rules/simple3.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/simple-rules/simple3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/simple-rules/simple4.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/simple-rules/simple4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/simple-rules/simple5.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/simple-rules/simple5.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/vars/var1.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/vars/var1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/vars/var2.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/vars/var2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/vars/var3.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/vars/var3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/vars/var4.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/vars/var4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Eval Test: eval-tests/vars/var5.l",
+      "setup": "",
+      "run": "./testEval.sh eval-tests/vars/var5.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/multn4.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/multn4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/multn3.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/multn3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/multn2.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/multn2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/multn1.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/multn1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/multi3.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/multi3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/multi2.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/multi2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/multi1.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/multi1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/inverse3.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/inverse3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/inverse2.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/inverse2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/inverse1.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/inverse1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/eqi4.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/eqi4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/eqi3.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/eqi3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/eqi2.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/eqi2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/eqi1.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/eqi1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/addn5.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/addn5.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/addn4.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/addn4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/addn3.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/addn3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/addn2.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/addn2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/addn1.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/addn1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/addi4.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/addi4.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/addi3.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/addi3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/addi2.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/addi2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/arith.l & ./lib-tests/arith/addi1.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/arith.l ./lib-tests/arith/addi1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/suffix2.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/suffix2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/suffix1.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/suffix1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/same2.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/same2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/same1.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/same1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/reverse2.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/reverse2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/reverse1.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/reverse1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/prefix2.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/prefix2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/prefix1.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/prefix1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/palindrome.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/palindrome.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/length2.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/length2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/length1.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/length1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/elem3.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/elem3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/elem2.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/elem2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/elem1.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/elem1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/append3.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/append3.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/append2.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/append2.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+
+    {
+      "name": "Logic Lib Test: ./lib/list.l & ./lib-tests/list/append1.l",
+      "setup": "",
+      "run": "./testLib.sh ./lib/list.l ./lib-tests/list/append1.l",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    }
+    
+  ]
+}

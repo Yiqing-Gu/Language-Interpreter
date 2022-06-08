@@ -1,0 +1,42 @@
+Yes:
+X = "a string";
+X = cons(succ(succ(zero)),
+    cons(succ(succ(succ(zero))), cons(succ(succ(succ(succ(zero)))), nil)));
+X = cons(succ(zero),
+    cons(succ(succ(zero)),
+        cons("a", cons(succ(succ(succ(succ(zero)))), cons("c", nil)))));
+X = cons(succ(zero),
+    cons(succ(succ(zero)),
+        cons("a",
+            cons(succ(succ(succ(succ(succ(succ(succ(succ(zero)))))))),
+                cons("c", nil)))));
+X = cons(succ(zero),
+    cons(succ(succ(succ(succ(zero)))),
+        cons(succ(succ(succ(succ(succ(zero))))),
+            cons(succ(succ(succ(succ(succ(succ(zero)))))),
+                cons(succ(zero),
+                    cons(succ(succ(zero)),
+                        cons("a",
+                            cons(succ(succ(succ(succ(succ(succ(succ(succ(zero)))))))),
+                                cons("c", nil))))))))).
+Yes:
+X = cons(succ(succ(zero)),
+    cons("a", cons(succ(succ(succ(succ(zero)))), cons("c", nil))));
+X = cons(succ(succ(zero)),
+    cons("a",
+        cons(succ(succ(succ(succ(succ(succ(succ(succ(zero)))))))),
+            cons("c", nil))));
+X = cons(succ(succ(succ(succ(zero)))),
+    cons(succ(succ(succ(succ(succ(zero))))),
+        cons(succ(succ(succ(succ(succ(succ(zero)))))),
+            cons(succ(zero),
+                cons(succ(succ(zero)),
+                    cons("a",
+                        cons(succ(succ(succ(succ(succ(succ(succ(succ(zero)))))))),
+                            cons("c", nil)))))))).
+Yes:
+X = cons("a", cons(succ(succ(succ(succ(zero)))), cons("c", nil)));
+X = cons("a",
+    cons(succ(succ(succ(succ(succ(succ(succ(succ(zero)))))))), cons("c", nil))).
+Yes:
+X = succ(succ(zero)).

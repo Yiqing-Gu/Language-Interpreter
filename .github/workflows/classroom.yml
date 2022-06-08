@@ -1,0 +1,42 @@
+name: GitHub Classroom Workflow
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    name: Autograding
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-haskell@v1
+      with:
+        # See https://github.com/actions/virtual-environments/blob/main/images/linux/Ubuntu2004-README.md
+        ghc-version: '9.0.1'
+        cabal-version: '3.4.0.0'
+
+    - name: Cache ~/.cabal/packages, ~/.cabal/store and dist-newstyle
+      uses: actions/cache@v2
+      with:
+        path: |
+          ~/.cabal/packages
+          ~/.cabal/store
+          dist-newstyle
+        key: ${{ runner.os }}-${{ matrix.ghc }}
+    - name: Install dependencies
+      run: |
+        cabal update
+        cabal build all --only-dependencies --enable-tests --enable-benchmarks
+    - name: Build
+      run: cabal build all --enable-tests --enable-benchmarks all
+    - name: make test.sh executable
+      run: |
+        sudo chmod +x bin/logichk
+        sudo chmod +x test.sh
+        sudo chmod +x testEval.sh
+        sudo chmod +x testLib.sh
+    - uses: education/autograding@v1

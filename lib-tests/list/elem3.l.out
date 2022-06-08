@@ -1,0 +1,9 @@
+Yes:
+X = succ(zero);
+X = "hi";
+X = succ(succ(succ(zero))).
+Yes:
+X = zero;
+X = succ(succ(zero)).
+Yes:
+X = "hi".

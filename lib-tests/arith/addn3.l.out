@@ -1,0 +1,22 @@
+Yes:
+X = succ(succ(succ(zero))),
+Y = zero;
+Y = succ(succ(succ(zero))),
+X = zero;
+Y = succ(zero),
+X = succ(succ(zero));
+Y = succ(succ(zero)),
+X = succ(zero).
+Yes:
+X = succ(succ(succ(succ(zero)))),
+Y = zero;
+Y = succ(succ(succ(succ(zero)))),
+X = zero;
+Y = succ(zero),
+X = succ(succ(succ(zero)));
+Y = succ(succ(succ(zero))),
+X = succ(zero);
+Y = succ(succ(zero)),
+X = succ(succ(zero));
+Y = succ(succ(zero)),
+X = succ(succ(zero)).

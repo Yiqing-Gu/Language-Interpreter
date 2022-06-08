@@ -1,0 +1,12 @@
+Yes:
+X = succ(succ(succ(zero))).
+Yes:
+X = succ(succ(succ(zero))).
+Yes:
+X = succ(succ(succ(zero))).
+Yes:
+X = succ(succ(succ(succ(succ(succ(succ(zero))))))).
+Yes:
+X = succ(succ(succ(succ(succ(succ(succ(zero))))))).
+Yes:
+X = succ(succ(succ(succ(succ(succ(succ(zero))))))).

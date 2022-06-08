@@ -1,0 +1,7 @@
+Yes:
+Y = succ(succ(succ(succ(succ(zero))))).
+Yes:
+X = succ(succ(zero)).
+Yes:
+Y = succ(succ(zero)),
+X = succ(succ(succ(succ(zero)))).

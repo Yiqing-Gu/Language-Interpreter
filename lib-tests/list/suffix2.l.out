@@ -1,0 +1,9 @@
+Yes:
+X = cons(a, cons(b, cons(c, nil)));
+X = cons(b, cons(c, nil));
+X = cons(c, nil);
+X = nil.
+Yes:
+Y = cons(c, nil).
+Yes:
+X = a.

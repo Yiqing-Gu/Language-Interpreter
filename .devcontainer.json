@@ -1,0 +1,10 @@
+{
+    "name" : "CS:3820 F21 Logic project",
+    "image" : "docker.io/jgbm/ui_cs3820_f21_base:latest",
+    "extensions" : ["haskell.haskell", "eamodio.gitlens"],
+
+    "workspaceMount": "source=${localWorkspaceFolder},target=/home/vscode/logic,type=bind,consistency=delegated",
+    "workspaceFolder": "/home/vscode/logic",
+
+    "remoteUser": "vscode"
+}

@@ -1,0 +1,52 @@
+Yes:
+X = "a";
+X = "B";
+X = "a";
+X = zero.
+Yes:
+X = "a";
+X = "B";
+X = "a";
+X = zero.
+Yes.
+Yes.
+Yes:
+X = "a";
+X = "B";
+X = "a";
+X = zero.
+Yes.
+Yes.
+Yes:
+Z = three,
+Y = two,
+X = one.
+Yes:
+X = three.
+Yes.
+Yes.
+Yes:
+Z = three,
+Y = two,
+X = one.
+Yes:
+X = three.
+Yes.
+No.
+Yes.
+No.
+No.
+Yes.
+Yes.
+Yes:
+Y = zero,
+X = nil.
+Yes:
+X = nil.
+Yes.
+Yes.
+Yes:
+Y = zero,
+X = nil.
+Yes:
+X = nil.
