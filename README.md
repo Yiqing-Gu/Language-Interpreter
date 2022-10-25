@@ -1,6 +1,8 @@
 # Language Interpreter
 
-This is a school project based on given project by Professor J. Garrett Morris. Haskell is the programming language used in this project.
+This is a school project based on a given language by Professor J. Garrett Morris. 
+
+Haskell is the programming language used in this project.
 
 Language interpreter can translate a customized language from Professor J. Garrett Morris.
 
